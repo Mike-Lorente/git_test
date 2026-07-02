@@ -1,1 +1,2 @@
 Yeah I'm just testing Git and Github so yeah that's it
+now testing the git message using code by updating this file
